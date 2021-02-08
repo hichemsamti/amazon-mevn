@@ -15,6 +15,7 @@ const ProductSchema = new Schema({
     title: String,
     description: String,
     photo: String,
+    avatar:String,
     price: Number,
     stockQunatity: Number,
     rating: [Number]
