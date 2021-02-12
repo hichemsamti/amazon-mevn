@@ -13,4 +13,4 @@ const OwnerSchema =  new Schema({
 })
 
 
-module.exports = mongoose.model("Owner",CategorySchema)
+module.exports = mongoose.model("Owner",OwnerSchema)

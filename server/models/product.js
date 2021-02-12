@@ -17,7 +17,7 @@ const ProductSchema = new Schema({
     photo: String,
     avatar:String,
     price: Number,
-    stockQunatity: Number,
+    stockQuantity: Number,
     rating: [Number]
 
 
